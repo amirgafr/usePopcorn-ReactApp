@@ -1,0 +1,3 @@
+used composition in order to solve a prop drilling problem
+use children prop
+Props As An API
